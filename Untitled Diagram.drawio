@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-08T03:19:02.981Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="g5WoF8dEmZszXp10S6aD" version="20.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-08T07:42:26.721Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="ZogUcvhtm4YYKZH-ygkF" version="20.0.3" type="github" pages="2">
   <diagram id="LCvre2FwaOWorcpkqi6q" name="Dynamic graph generation">
     <mxGraphModel dx="981" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -143,8 +143,8 @@
         <mxCell id="ZR1eLQYfI3mB6odtv17A-10" value="tanh" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="330" y="320" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZR1eLQYfI3mB6odtv17A-11" value="sig" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;fontFamily=Helvetica;fontColor=default;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="495" y="320" width="50" height="40" as="geometry" />
+        <mxCell id="ZR1eLQYfI3mB6odtv17A-11" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;sigmoid&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;fontFamily=Helvetica;fontColor=default;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="490" y="315" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZR1eLQYfI3mB6odtv17A-12" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=19;fontColor=default;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
