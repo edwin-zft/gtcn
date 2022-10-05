@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-05T03:42:53.879Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" etag="qffY68u6KCzv3B6BM-Ak" version="20.3.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-05T03:44:12.994Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" etag="q5r4LgmLYL1-xQ0SeN8S" version="20.3.3" type="github" pages="2">
   <diagram id="hJp9Cb7KLexVjKm1sbrY" name="第 1 页">
     <mxGraphModel dx="1807" dy="1694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -395,6 +395,9 @@
             <mxPoint x="135.00000000000045" y="1017.5" as="sourcePoint" />
             <mxPoint x="170" y="960" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CJm58eh5ZE4JC_eHLjOP-53" value="$$Tensor Train Layer$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="420" y="835" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
