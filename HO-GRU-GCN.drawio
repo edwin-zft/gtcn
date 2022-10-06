@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-06T01:52:49.919Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" etag="s8t-iRHPYJ7nSf9pR6tA" version="20.3.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-06T01:53:21.643Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" etag="_Zz9G_OHoX0G0RqaHmB_" version="20.3.3" type="github" pages="2">
   <diagram id="hJp9Cb7KLexVjKm1sbrY" name="第 1 页">
     <mxGraphModel dx="1807" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -493,6 +493,12 @@
         </mxCell>
         <mxCell id="ZWESRI51xOUJ7G3OvhkM-163" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 10px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;$$Y_{t+Q}$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Helvetica;fontColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="621.25" y="55" width="35" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWESRI51xOUJ7G3OvhkM-165" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#000000&quot;&gt;&lt;b&gt;Encoder&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="35" y="170" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWESRI51xOUJ7G3OvhkM-166" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#000000&quot;&gt;&lt;b&gt;Decoder&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="488.75" y="170" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
