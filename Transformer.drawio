@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-05T00:54:07.880Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26" etag="dO10noBeAnVSHSRt-Gmz" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-05T00:54:32.613Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26" etag="JwBd3JGR8d0BKBxep-T8" version="20.5.1" type="github">
   <diagram id="8wdQnnvvIOz9vKfe4MHK" name="第 1 页">
     <mxGraphModel dx="1146" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -86,7 +86,7 @@
             <mxPoint x="230" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rmtb3irvOzr1RXj2wSrz-6" value="FC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="Rmtb3irvOzr1RXj2wSrz-6" value="Strat_FC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="180" y="1070" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Rmtb3irvOzr1RXj2wSrz-10" value="" style="endArrow=classic;html=1;rounded=0;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="1">
@@ -142,6 +142,9 @@
               <mxPoint x="160" y="750" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Rmtb3irvOzr1RXj2wSrz-28" value="End_FC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="180" y="680" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
