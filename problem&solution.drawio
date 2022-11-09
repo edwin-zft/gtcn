@@ -1,32 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T07:04:03.589Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="XXQ5PmeoVEiptfH4siJE" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T07:33:56.948Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="5mUF1XqvKUBclGWFTRsP" version="20.5.3" type="github">
   <diagram id="NPU_aEP58J2ReD9_5BpP" name="第 1 页">
     <mxGraphModel dx="1146" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WZ7j747DOy_lru5aS8Ee-1" value="模型参数冗余" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="130" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="WZ7j747DOy_lru5aS8Ee-3" value="隐藏的空间相关性难以捕获" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="142.95999999999998" y="170" width="108.52" height="32.5" as="geometry" />
         </mxCell>
-        <mxCell id="WZ7j747DOy_lru5aS8Ee-2" value="&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Lucida Console&quot;&gt;&lt;b&gt;问题&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="160" y="180" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="WZ7j747DOy_lru5aS8Ee-3" value="时空特征挖掘不充分" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="130" y="287.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WZ7j747DOy_lru5aS8Ee-6" value="研究内容" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontFamily=Lucida Console;" parent="1" vertex="1">
-          <mxGeometry x="340" y="180" width="80" height="30" as="geometry" />
+        <mxCell id="WZ7j747DOy_lru5aS8Ee-6" value="理论研究" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontFamily=Lucida Console;" parent="1" vertex="1">
+          <mxGeometry x="370.24" y="95" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WZ7j747DOy_lru5aS8Ee-8" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=13;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
-          <mxGeometry x="240" y="185" width="100" height="25" as="geometry" />
+          <mxGeometry x="251.48" y="95" width="100" height="25" as="geometry" />
         </mxCell>
         <mxCell id="WZ7j747DOy_lru5aS8Ee-10" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=13;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
-          <mxGeometry x="450" y="185" width="100" height="25" as="geometry" />
+          <mxGeometry x="461.48" y="95" width="100" height="25" as="geometry" />
         </mxCell>
         <mxCell id="WZ7j747DOy_lru5aS8Ee-11" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=13;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
-          <mxGeometry x="280" y="301.25" width="40" height="32.5" as="geometry" />
+          <mxGeometry x="279" y="170" width="40" height="32.5" as="geometry" />
         </mxCell>
-        <mxCell id="WZ7j747DOy_lru5aS8Ee-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=13;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="420" y="273.75" width="120" height="60" as="geometry" />
+        <mxCell id="WZ7j747DOy_lru5aS8Ee-12" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;研究内容1：&lt;br&gt;基于注意力机制和时间卷积神经网络的交通预测模型&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="335.98" y="156.25" width="148.52" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WZ7j747DOy_lru5aS8Ee-13" value="时空特征挖掘" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="119" y="845" width="110" height="30" as="geometry" />
@@ -537,6 +531,15 @@
         </mxCell>
         <mxCell id="uu5v_pjKChr5HiKAVfeQ-263" value="技术路线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="119" y="725" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uu5v_pjKChr5HiKAVfeQ-264" value="问题与挑战" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="159.00000000000003" y="95" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uu5v_pjKChr5HiKAVfeQ-265" value="深度学习预测模型参数冗余" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="141.48" y="270" width="108.52" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="uu5v_pjKChr5HiKAVfeQ-266" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;研究内容2：&lt;br&gt;基于张量分解的预测模型压缩&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="335.48" y="260" width="148.52" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
